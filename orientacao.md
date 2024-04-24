@@ -32,9 +32,30 @@
 
 #### O que é um mapa topográfico
 
+Um mapa topográfico é uma representação detalhada de uma área da superfície da Terra, que mostra várias características tanto naturais quanto artificiais sobre o terreno.
+
 #### Utilidade de um mapa topográfico
 
 #### Caracteristicas de um mapa topográfico
+
+Existem algumas características que conseguimos encontrar num mapa topográfico.
+
+##### Área de representação
+
+Indica a área de abrangência do mapa e seus limites. Encontra-se na margem superior. Indica o nome do mapa.
+Nas extremidades das bordas, indica a latitude e a longitude extremas do mapa.
+
+##### Escala
+
+A escala do mapa representa a relação entre cada unidade do mapa e o tamanho real. As escalas que vão mais regularmente encontrar são de 1:25 000 (1cm no mapa representa 250m), e 1:50 000 (1cm no mapa representa 500m). Isto não significa que não vão encontrar outras escalas (por exemplo 1:10 000; 1:100 000; etc...).
+
+A escala é usada para conseguirmos convertermos a nossa distancia real, para a distancia do mapa, e vice versa.
+
+_Curiosidade_: Para representar Portugal inteiro(incluindo ilhas), é usado uma escala de [1:2 500 000](./2500k.jpg).
+
+###### Escalímetro
+
+O escalímetro é uma régua graduada em diferentes escalas, facilitando a leitura de distâncias no mapa. Apresenta as distâncias diretamente na escala real, evitando assim a necessidade de cálculos. Caso a régua não possua a escala do nosso mapa, utiliza-se uma escala proporcional. Por exemplo, podemos usar a escala de 1:10 000 e multiplica os valores por 10 para encontrar a escala de 1:100 000.
 
 #### Simbologia presente num mapa topográfico
 
@@ -69,8 +90,8 @@ Na figura 1, conseguem ver onde essas diferentes partes se encontram na bússola
 
 #### **REQUISITOS**
 
-1. Explicar o que é um mapa topográfico, o que se pode encontrar nele e três utilidades para o mesmo.
-2. [Identificar pelo menos 20 sinais e símbolos usados em mapas topográficos](#simbologia-presente-num-mapa-topográfico)
+1. [Explicar o que é um mapa topográfico, o que se pode encontrar nele e três utilidades para o mesmo.](#mapa-topográfico)
+2. [Identificar pelo menos 20 sinais e símbolos usados em mapas topográficos.](#simbologia-presente-num-mapa-topográfico)
 3. [Apresentar a nomenclatura de uma bússola.](#nomenclatura-de-uma-bússola)
 4. [Conhecer e explicar os termos a seguir:](#termos-importantes)
    - Elevação
