@@ -26,7 +26,7 @@
 
 **Azimute dorsal**: Este termo não é padrão em geografia ou cartografia. Pode ser um erro de transcrição ou um termo muito específico de uma área particular. Se você tiver um contexto específico onde encontrou este termo, posso tentar ajudar mais detalhadamente.
 
-#### 
+
 
 ## Mapa Topográfico
 
@@ -72,7 +72,7 @@ Na figura 1, conseguem ver onde essas diferentes partes
 1. Explicar o que é um mapa topográfico, o que se pode encontrar nele e três utilidades para o mesmo.
 2. Identificar pelo menos 20 sinais e símbolos usados em mapas topográficos
 3. Apresentar a nomenclatura de uma bússola.
-4. Conhecer e explicar os termos a seguir:
+4. [Conhecer e explicar os termos a seguir:](#Termos-Importantes)
    - Elevação
    - Azimute
    - Curvas de Nível
@@ -94,6 +94,16 @@ Na figura 1, conseguem ver onde essas diferentes partes
 
 Estão aqui alguns links que podem ser interessantes se quiserem explorar mais coisas sobre orientação:
 
-- https://cesad.ufs.br/ORBI/public/uploadCatalago/11205204042012Cartografia_Basica_Aula_15.pdf
+- [https://cesad.ufs.br/ORBI/public/uploadCatalago/11205204042012Cartografia_Basica_Aula_15.pdf](https://cesad.ufs.br/ORBI/public/uploadCatalago/11205204042012Cartografia_Basica_Aula_15.pdf)
 
-<div style="display:flex; justify-content: space-between; zoom: 50%;"><span>by David Batista</span><span>version 0.1</span></div>
+
+
+<div style="display:flex; justify-content: space-between; zoom: 50%;">
+  <span>by David Batista</span>
+  <div>
+  	<span style="display: block; text-align: end;">version 0.1</span>
+    <span style="display: block; text-align: end;">check the latest version at</span>
+    <a href="https://prayerdb.github.io/orientacao">https://prayerdb.github.io/orientacao</a>
+  </div>
+</div>
+
