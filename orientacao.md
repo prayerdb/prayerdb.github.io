@@ -53,7 +53,7 @@ Os elementos de uma bússola que precisam de saber são os seguintes:
 - **Linha de Fé (ou linha de rumo)**: Linha no fundo da cápsula que se alinha com o norte magnético quando a bússola está nivelada.
 - **Janela de leitura do azimute**: Onde o azimute (ou rumo) é lido diretamente.
 
-Na figura 1, conseguem ver onde essas diferentes partes
+Na figura 1, conseguem ver onde essas diferentes partes se encontram na bússola.
 
 <img src="./bussola_nomeada.jpeg" style="height: 360px;" />
 
@@ -70,8 +70,8 @@ Na figura 1, conseguem ver onde essas diferentes partes
 #### **REQUISITOS**
 
 1. Explicar o que é um mapa topográfico, o que se pode encontrar nele e três utilidades para o mesmo.
-2. [Identificar pelo menos 20 sinais e símbolos usados em mapas topográficos](#simbologia-presente-num-mapa-topografico)
-3. [Apresentar a nomenclatura de uma bússola.](#nomenclatura-de-uma-bussola)
+2. [Identificar pelo menos 20 sinais e símbolos usados em mapas topográficos](#simbologia-presente-num-mapa-topográfico)
+3. [Apresentar a nomenclatura de uma bússola.](#nomenclatura-de-uma-bússola)
 4. [Conhecer e explicar os termos a seguir:](#termos-importantes)
    - Elevação
    - Azimute
