@@ -40,7 +40,7 @@
 
 ## Bússola
 
-#### Nomenclatura de uma bússola:
+#### Nomenclatura de uma bússola
 
 Os elementos de uma bússola que precisam de saber são os seguintes:
 
@@ -70,9 +70,9 @@ Na figura 1, conseguem ver onde essas diferentes partes
 #### **REQUISITOS**
 
 1. Explicar o que é um mapa topográfico, o que se pode encontrar nele e três utilidades para o mesmo.
-2. Identificar pelo menos 20 sinais e símbolos usados em mapas topográficos
-3. Apresentar a nomenclatura de uma bússola.
-4. [Conhecer e explicar os termos a seguir:](#Termos-Importantes)
+2. [Identificar pelo menos 20 sinais e símbolos usados em mapas topográficos](#simbologia-presente-num-mapa-topografico)
+3. [Apresentar a nomenclatura de uma bússola.](#nomenclatura-de-uma-bussola)
+4. [Conhecer e explicar os termos a seguir:](#termos-importantes)
    - Elevação
    - Azimute
    - Curvas de Nível
