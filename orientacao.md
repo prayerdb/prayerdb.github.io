@@ -24,7 +24,7 @@
 
 **Formato do terreno**: Refere-se às características físicas e à configuração da superfície do terreno, incluindo montanhas, vales, planícies e outros relevos.
 
-**Azimute dorsal**: !!Pending
+**Azimute dorsal**: É o azimute inverso, ao seja direção oposta, implica estar a 180º de diferença. Por exemplo, o azimute dorsal do azimute 90º, é 270º.
 
 
 
@@ -36,7 +36,7 @@ Um mapa topográfico é uma representação detalhada de uma área da superfíci
 
 #### Utilidade de um mapa topográfico
 
-!!Pending...
+Um mapa topográfico, por conter várias informações relevantes do terreno, tem várias vantagens no seu uso. Podemos o usar para identificar a nossa localização, a localiação de outros pontos relevantes, para planear um trajeto, seja para ver qual o mais curto ou o menos cansativo, ou até para compreender melhor as caracteristicas de um determinado terreno.
 
 #### Caracteristicas de um mapa topográfico
 
@@ -73,7 +73,7 @@ seja, desde que esteja compreendido entre duas curvas de nível.
 
 Para localizar um ponto, é necessário conhecer a distância deste, em relação a dois outros pontos conhecidos. Em cartografia, usa-se o equador como o eixo _X_ do plano cartesiano e os meridianos (meridiano de Greenwich - meridiano zero - ou meridianos de referência do UTM) como o eixo _y_ do plano cartesiano.
 
-_Exemplo_: As coordenadas da nossa Igreja em longitude e latitude são: W 8º 48'33" N 39º 43'93". Lê-se: 8 graus, 48 minutos, 33 segundos oeste; 39 graus, 43 minutos, 39 segundos norte.
+_Exemplo_: As coordenadas da nossa Igreja em longitude e latitude são: W 8º 48' 33" N 39º 43' 93". Lê-se: 8 graus, 48 minutos, 33 segundos oeste; 39 graus, 43 minutos, 39 segundos norte.
 
 ###### Longitude e Latitude
 
@@ -95,7 +95,10 @@ Na figura _X_, conseguimos ver um exemplo de uma legenda comum que se encontra n
 
 ###### Como corrigir a declinação magnética
 
-!!Pending
+Esta declinação magnética vai causar imprecisões quando estamos a tentar usar a bússola no mapa. Então devido a este fenomeno, se estivermos a tentar ser precisos no uso da bussola, o que é especialmente importante quando estamos a trabalhar com distâncias maiores, devemos compensar essa declinação magnética. Podemos fazer isso através de duas maneiras, mas para ambas primeiro temos que saber qual a declinação magnética para a nossa região, e para o nosso ano, visto que ela varia com o passar do tempo.
+
+1. Fazer o cálculo previamente: Podemos usar a bussola normalmente, se subtrairmos ou adicionarmos a declinação ao azimute que estamos a trabalhar. Por exemplo, se estou a tentar ver a direção do azimute 280º, e a temos uma declinação de -5º, podemos trabalhar então diretamente com o azimute 275º.
+2. Outra opção é fazer a correção na orientação do mapa. Quando estamos a orientar um mapa, parte do processo é alinhar a bússola com as linhas meridionais, e rodar o mapa até ele estar orientado a norte. Podemos então para corrigir a declinação, alinhar a bussúla em paralelo com a linha da declinação magnética. Este processo é mais fácil com acesso a um transferidor, onde podemos desenhar as linhas diagonais com o mesmo angulo da declinação magnética.
 
 #### Simbologia presente num mapa topográfico
 
